@@ -20,9 +20,9 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:git://github.com/mosip/id-authentication.git</connection>
-		<developerConnection>scm:git:ssh://github.com:mosip/id-authentication.git</developerConnection>
-		<url>https://github.com/mosip/id-authentication</url>
+		<connection>scm:git:git://github.com/mosip/authentication-demo-ui.git</connection>
+		<developerConnection>scm:git:ssh://github.com:mosip/authentication-demo-ui.git</developerConnection>
+		<url>https://github.com/mosip/authentication-demo-ui</url>
 		<tag>HEAD</tag>
 	</scm>
 
@@ -31,7 +31,7 @@
 			<name>Mosip</name>
 			<email>mosip.emailnotifier@gmail.com</email>
 			<organization>io.mosip</organization>
-			<organizationUrl>https://github.com/mosip/id-authentication</organizationUrl>
+			<organizationUrl>https://github.com/mosip/authentication-demo-ui</organizationUrl>
 		</developer>
 	</developers>
 
