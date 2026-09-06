@@ -1,0 +1,5 @@
+name: "authentication-demo-ui"
+paths:
+  - authentication-demo-ui
+queries:
+  - uses: security-and-quality
