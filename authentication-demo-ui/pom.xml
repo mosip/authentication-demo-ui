@@ -12,6 +12,7 @@
     <name>authentication-demo-ui</name>
     <description>MOSIP authentication demo UI</description>
     <version>1.2.1-SNAPSHOT</version>
+    <url>https://github.com/mosip/authentication-demo-ui</url>
 
     <licenses>
         <license>
@@ -95,6 +96,7 @@
                 <groupId>io.mosip.kernel</groupId>
                 <artifactId>kernel-bom</artifactId>
                 <version>1.2.1-SNAPSHOT</version>
+    <url>https://github.com/mosip/authentication-demo-ui</url>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
@@ -141,6 +143,7 @@
             <groupId>io.mosip.kernel</groupId>
             <artifactId>kernel-core</artifactId>
             <version>1.2.1-SNAPSHOT</version>
+    <url>https://github.com/mosip/authentication-demo-ui</url>
             <exclusions>
                 <exclusion>
                     <groupId>org.bouncycastle</groupId>
@@ -152,6 +155,7 @@
             <groupId>io.mosip.kernel</groupId>
             <artifactId>kernel-keymanager-service</artifactId>
             <version>1.2.1-SNAPSHOT</version>
+    <url>https://github.com/mosip/authentication-demo-ui</url>
             <classifier>lib</classifier>
         </dependency>
         <dependency>
